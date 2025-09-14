@@ -1,6 +1,6 @@
 # Ethkipu
 
-¡Hola, soy Occar Chaile! 👋
+¡Hola, soy Oscar Chaile! 👋
 
 Soy un desarrollador en formación, apasionado por el ecosistema Web3 y Ethereum. 
 Estoy aprendiendo a construir aplicaciones descentralizadas y a contribuir al futuro de la tecnología blockchain.
